@@ -98,4 +98,4 @@
   (block9 "#dadae8")))
 
 (provide-theme 'stekene-light)
-;;; stekene-ligh-theme.el ends here
+;;; stekene-light-theme.el ends here
